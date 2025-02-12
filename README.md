@@ -1,1 +1,1 @@
-# Canadian-Computing-Competition-Solutions
+# Canadian Computing Competition Solutions
